@@ -1,0 +1,1 @@
+from .ciname_user_models import CinemaUser

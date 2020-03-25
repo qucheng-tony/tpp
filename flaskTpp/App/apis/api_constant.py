@@ -1,0 +1,5 @@
+HTTP_OK=200
+HTTP_CREAT_OK=201
+
+USER_LOGIN="login"
+USER_REGISTER="register"
